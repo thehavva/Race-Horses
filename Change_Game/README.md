@@ -1,0 +1,4 @@
+# Change-Game
+![Change Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfxv32dqVZqcbb2UyVQVtcCczzrlQBqUqh4U6klk0uSSaFr59yUE7ppvbcRvq2VDektbY&usqp=CAU)
+
+In this project, I designed a game of chance. We have 53 playing cards and each has its own number. The system randomly distributes our card numbers, five each. Then the values of our card numbers are collected and we are asked to discard one of our cards. Instead of the card we discarded, the system takes out another card and the card numbers are collected again. If the 1st total and the 2nd total are equal, we don't lose any money. If the first is greater than the second, we lose money, if the 2nd total is greater, we make money. (If the card number is between 1-10, its value is equal to the card number, if it is between 11-20, its value is 5 points if it is between 3.21-45, and 10 points if it is between 46-52.)
